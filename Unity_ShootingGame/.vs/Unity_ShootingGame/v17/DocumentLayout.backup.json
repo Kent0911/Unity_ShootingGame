@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|c:\\users\\kent kurosawa\\documents\\github\\unity_shootinggame\\unity_shootinggame\\assets\\source\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|c:\\users\\kent kurosawa\\documents\\github\\unity_shootinggame\\unity_shootinggame\\assets\\source\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\assets\\source\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|c:\\users\\kent kurosawa\\documents\\github\\unity_shootinggame\\unity_shootinggame\\assets\\source\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\assets\\source\\enemypoparea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B74193-EB15-87BA-0308-6CCC7CA48D09}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\enemypoparea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +30,54 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Source\\Bullet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:03:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Source\\Enemy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:32:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyPopArea.cs",
+              "DocumentMoniker": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\EnemyPopArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\EnemyPopArea.cs",
+              "ToolTip": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\EnemyPopArea.cs",
+              "RelativeToolTip": "Assets\\Source\\EnemyPopArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:04:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Player.cs",
               "ToolTip": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Player.cs",
               "RelativeToolTip": "Assets\\Source\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwEYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T02:03:49.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Source\\Bullet.cs",
-              "ToolTip": "C:\\Users\\Kent Kurosawa\\Documents\\GitHub\\Unity_ShootingGame\\Unity_ShootingGame\\Assets\\Source\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Source\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:42:21.398Z",
+              "WhenOpened": "2024-08-21T02:03:49.529Z",
               "EditorCaption": ""
             }
           ]

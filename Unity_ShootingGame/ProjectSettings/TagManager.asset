@@ -6,6 +6,10 @@ TagManager:
   tags:
   - mRoutePoints
   - M Route Points
+  - Enemy
+  - Bullet
+  - ClearRoutePoint
+  - Ground
   layers:
   - Default
   - TransparentFX
